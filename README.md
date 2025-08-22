@@ -65,7 +65,6 @@ This project allowed me to explore:
 - [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
 
 ---
----
 
 # 🚀 Applicazione di Apprendimento Tauri
 
